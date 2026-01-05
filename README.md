@@ -19,4 +19,3 @@ This repository contains self-directed manual QA testing projects created to dem
 - Google Chrome
 - GitHub for version control
 
-## Project Structure
